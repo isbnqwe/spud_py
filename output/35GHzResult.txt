@@ -1,0 +1,14 @@
+Q(atmos) = 0.417
+Q(cmb) = 0.071
+Q(WFB) = 0.079
+Q(Blocker1) = 0.054
+Q(Blocker2) = 0.025
+Q(Blocker3) = 0.011
+Q(Waveplate) = 0.000
+Q(Lens) = 0.012
+Q(Total) = 0.669
+Trj = 18.463
+NET(bolo) = 296.550
+NET(fp) = 34.949
+NET(dust_fp) = 556.366
+NET(sync_fp) = 0.482
